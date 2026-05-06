@@ -19,7 +19,7 @@ It works because every previous build of an app remains addressable on Apple's s
 ## Setup
 
 ```bash
-# Install dependencies
+# Install dependencies with HomeBrew
 brew install ipatool jq
 
 # Authenticate ipatool with your Apple ID
