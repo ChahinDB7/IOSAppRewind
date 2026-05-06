@@ -9,12 +9,12 @@ Sometimes a developer pushes an update to the App Store that you absolutely hate
 It works because every previous build of an app remains addressable on Apple's servers via an internal `externalVersionId`. [`ipatool`](https://github.com/majd/ipatool) (signed in with your Apple ID) can purchase the licence and download the encrypted `.ipa`. AppRewind wraps `ipatool` to make that workflow ergonomic: search for the app, list every version, pick the one you want, download it. You then install the `.ipa` onto the device with **Apple Configurator**.
 
 ## Requirements
-
 - macOS
-- An Apple ID that has previously "purchased" (free is fine) the app you want to revert
+- [HomeBrew](https://brew.sh/)
 - [`ipatool`](https://github.com/majd/ipatool), `jq`, `curl`
 - [Apple Configurator](https://apps.apple.com/app/apple-configurator-2/id1037126344) (free, Mac App Store)
 - A Lightning / USB-C cable
+- An Apple ID that has previously "purchased" (free is fine) the app you want to revert
 
 ## Setup
 
