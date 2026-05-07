@@ -103,7 +103,7 @@ The `.ipa` lands in `./.output/`. Use `--refresh` to bypass the cache and re-fet
 
 ## Installing the `.ipa` on your iPhone
 
-> ✅ **No signing hassle.** The `.ipa` you downloaded is the *official* build from Apple's servers, already signed by the developer. Apple Configurator installs it directly under your Apple ID — there are **no certificates to manage, no resigning, no 7-day re-signing every week, no developer account, works worldwide, and no jailbreak**. None of the usual sideloading hurdles you'd hit with example **AltStore / SideStore / Sideloadly**.
+> ✅ **No signing hassle.** The `.ipa` you downloaded is the *official* build from Apple's servers, already signed by the developer. Apple Configurator installs it directly under your Apple ID — there are **no certificates to manage, no 7-day re-signing every week, no developer account, works worldwide, and no jailbreak**. None of the usual sideloading hurdles you'd hit with example **AltStore / SideStore / Sideloadly**.
 
 1. **Install Apple Configurator** from the Mac App Store (free).
 2. **Connect your iPhone** to your Mac with a cable. On the iPhone, tap **Trust This Computer** the first time you connect (you may need to enter your passcode).
